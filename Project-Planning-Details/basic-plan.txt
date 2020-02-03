@@ -1,0 +1,14 @@
+App must contain :
+
+- User login and user signup
+- Diet Plans
+- Edit Diet Plans
+- Make custom diet Plans
+- Diet nutrition chart
+
+App Structure :
+
+- Homepage : login/signup
+- Dashboard : Diets on Cards
+- Visualize the nutrition
+
